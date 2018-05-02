@@ -1,5 +1,10 @@
 # build your resume based react
 
+[![GitHub issues](https://img.shields.io/github/issues/zzlw/react-resume.svg)](https://github.com/zzlw/react-resume/issues)
+[![GitHub forks](https://img.shields.io/github/forks/zzlw/react-resume.svg)](https://github.com/zzlw/react-resume/network)
+[![GitHub stars](https://img.shields.io/github/stars/zzlw/react-resume.svg)](https://github.com/zzlw/react-resume/stargazers)
+[![GitHub license](https://img.shields.io/github/license/zzlw/react-resume.svg)](https://github.com/zzlw/react-resume/blob/master/LICENSE)
+
 ## features
 
 - use [webpack 2 & webpack-dev-server]() build your system.
